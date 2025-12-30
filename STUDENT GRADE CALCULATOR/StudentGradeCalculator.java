@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class StudentGradeCalculator {
@@ -34,3 +33,4 @@ public class StudentGradeCalculator {
         sc.close();
     }
 }
+
